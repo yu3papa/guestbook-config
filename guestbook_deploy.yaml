@@ -14,7 +14,7 @@ spec:
         app: guestbook
     spec:
       containers:
-      - image: yu3papa/cicd_guestbook:20241222110032_8
+      - image: yu3papa/cicd_guestbook:20241222141130_12
         name: sb-guestbook
 
 ---
